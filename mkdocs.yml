@@ -1,0 +1,65 @@
+site_name: Kevin Quinn 
+nav: 
+- Home: index.md
+- Work: work.md
+theme: 
+  name: material
+  favicon: /img/favicon.ico
+  logo: /img/favicon.ico
+  palette:
+    - primary: 'blue grey'
+      accent: 'teal'
+      media: "(prefers-color-scheme: light)" 
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - primary: 'blue grey'
+      accent: 'teal'
+      media: "(prefers-color-scheme: dark)" 
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  icon: 
+    repo: fontawesome/brands/github-alt
+  features:
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - toc.integrate
+  - navigation.top
+
+repo_url: https://github.com/kevinquinnw
+edit_uri: ''
+repo_name: kevinquinnw
+
+extra:
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<kevinquinnw@gmail.com>
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/kevin-quinn-5a3b83196/ 
+    - icon: fontawesome/brands/github
+      link: https://github.com/kevinquinnw
+
+copyright: Copyright &copy; 2022 - Kevin Quinn
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - attr_list
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+
