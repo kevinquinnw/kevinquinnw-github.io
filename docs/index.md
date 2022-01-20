@@ -1,6 +1,6 @@
- <div style="text-align:center">
- <img src="/img/tcv.png"> 
-</div>
+ 
+ ![](img/tcv.png) 
+
  I am a Math, Stats, CS student at the <a href="https://www.utoronto.ca/university-life/campuses/st-george" target="_blank">University of Toronto (St. George)</a>, who loves to use diverse algorithms and mathematics to solve difficult problems. In my free time, I love to golf and work on <a href="https://projecteuler.net/archives" target="_blank">these</a>.
 
  I previously attended <a href="https://www.albanyacademies.org/" target="_blank">The Albany Academies</a> where I spent my Grade 12 and Post Graduate year in New York with the opportunity to travel across the United States and play high-level hockey. I captained the Varsity Hockey Team and was involved in various activities such as Robotics Club, Student Ambassadors, Math Tutoring and was a Teacher Assistant for a 2nd Grade Class. 
@@ -9,7 +9,7 @@
 
 ## Work Experience 
 
-> Data Intern at Interac Corp. <img src="/img/interac.png" alt="drawing" width="20px" />
+> Data Intern at Interac Corp. ![](img/interac.png){width="20"}
 >>  May 2021 - September 2021
 >>
 > * Used Python to access Jira API to connect employee's tasks, task life and other statistics with Planview for work management. 
@@ -17,7 +17,7 @@
 > * Created and organized newsletter for department highlighting data analytic leaders, data culture and educational resources.
 
 
-> Web Developer at SSD Group LTD. <img src="/img/SSD.png" alt="drawing" width="35px"/>
+> Web Developer at SSD Group LTD. ![](img/SSD.png){width="35"}
 >>  May 2020 - May 2021
 >>
 > * Developed and designed a dynamic website using React and Node.js.

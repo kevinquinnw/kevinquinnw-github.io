@@ -5,9 +5,9 @@ A lot of my work is geared towards undergraduate mathematics and a variety of pr
 ### Predictions
 ---
 #### Wildfire Predictor (School Project)
-<div style="text-align:center">
-<img src="/img/cwf.png" />
-</div> 
+
+![](/img/cwf.png)
+
 
 The main goal of this project was to predict the wildfire count for any state in the U.S. in any given year using a poisson regression model and a negative binomial regression model.
 
