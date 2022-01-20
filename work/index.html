@@ -465,7 +465,7 @@
 <h3 id="predictions">Predictions</h3>
 <hr />
 <h4 id="wildfire-predictor-school-project">Wildfire Predictor (School Project)</h4>
-<p><img alt="" src="../img/cwf.png" /></p>
+<p><img alt="" src="img/cwf.png" /></p>
 <p>The main goal of this project was to predict the wildfire count for any state in the U.S. in any given year using a poisson regression model and a negative binomial regression model.</p>
 <p>Two models were used because either regression suits the situation as we were looking for discrete outcomes. The poisson regression was created with the following code: </p>
 <div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1"></a><span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="o">.</span><span class="n">from_dict</span><span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="n">state</span><span class="p">],</span> <span class="n">orient</span><span class="o">=</span><span class="s1">&#39;index&#39;</span><span class="p">,</span> <span class="n">columns</span><span class="o">=</span><span class="p">[</span><span class="s1">&#39;Average_Temp&#39;</span><span class="p">,</span> <span class="s1">&#39;Precipitation&#39;</span><span class="p">,</span> <span class="s1">&#39;Fire_Counts&#39;</span><span class="p">])</span>
