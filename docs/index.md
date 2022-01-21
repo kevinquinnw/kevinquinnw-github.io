@@ -9,20 +9,20 @@
 
 ## Work Experience 
 
-> Data Intern at Interac Corp. ![](img/interac.png){width="20"}
+> Data Science Intern at Interac Corp. ![](img/interac.png){width="20"}
 >>  May 2021 - September 2021
 >>
-> * Used Python to access Jira API to connect employee's tasks, task life and other statistics with Planview for work management. 
-> * Used Tableau to connect and efficiently display and analyze employee's time-sheets
-> * Created and organized newsletter for department highlighting data analytic leaders, data culture and educational resources.
+> * Utilized Jira API to connect employee’s tasks, task life and other statistics with Planview for work management, written in Python - while following Clean Architecture guidelines and OOP, greatly increasing reliability and maintainability.
+> * Created Tableau dashboards to efficiently display employee timesheets and Canadian’s spending habits - where the Tableau server was utilized to publish and share reports with the business users.
+> * Wrote extensive documentation to aid maintainers and operators for Confluence pages. Smoothly handed off projects to the new interns.
 
 
-> Web Developer at SSD Group LTD. ![](img/SSD.png){width="35"}
+> Full Stack Developer at SSD Group LTD. ![](img/SSD.png){width="35"}
 >>  May 2020 - May 2021
 >>
-> * Developed and designed a dynamic website using React and Node.js.
-> * Automated incoming orders for PPE products.
-> * Maintained upkeep of hosting and created a fully functional contact form that filtered responses into a Google Sheet. 
+> *  Developed and designed a dynamic website using React and Node.js which automated incoming orders for PPE products and contained a fully functional contact form that filtered responses into a Google Sheet.
+> * Designed and edited photos, videos and other graphics using Adobe After Effects and Photoshop to create appealing logos, advertisements and other branding material.
+
 
 ---
 
